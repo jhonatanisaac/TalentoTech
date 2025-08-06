@@ -1,0 +1,50 @@
+[
+    {
+        "nombre":"the legend of zelda breath of the wild",
+        "genero":"Rol",
+        "tiempo_estimado":200,
+        "desarrollador":"Nintendo",
+        "anio":2017,
+        "costo":"70"
+    },
+    {
+        "nombre":"call of duty modern warfare 3",
+        "genero":"Accion",
+        "tiempo_estimado":60,
+        "desarrollador":"Activicion",
+        "anio":2023,
+        "costo":"45"
+    },
+    {
+        "nombre":"Resident Evil",
+        "genero":"Accion",
+        "tiempo_estimado":60,
+        "desarrollador":"Capcom",
+        "anio":1998,
+        "costo":"5"
+    },
+    {
+        "nombre":"Street Fighter 5",
+        "genero":"Peleas",
+        "tiempo_estimado":60,
+        "desarrollador":"Capcom",
+        "anio":2024,
+        "costo":"10"
+    },
+    {
+        "nombre":"hollow knight",
+        "genero":"Metroidvania",
+        "tiempo_estimado":200,
+        "desarrollador":"TeamCherry",
+        "anio":2021,
+        "costo":"35"
+    },
+    {
+        "nombre":"Wii Sports",
+        "genero":"Deportes",
+        "tiempo_estimado":60,
+        "desarrollador":"Nintendo",
+        "anio":2006,
+        "costo":"5"
+    }
+]
