@@ -5,7 +5,10 @@
         "tiempo_estimado":200,
         "desarrollador":"Nintendo",
         "anio":2017,
-        "costo":"70"
+        "costo":70,
+        "costo_por_hora":0.35,
+        "valor_por_dolar":2.8571428571,
+        "id":"915fc0c1-4f52-4453-b87f-87351596dfc0"
     },
     {
         "nombre":"call of duty modern warfare 3",
@@ -13,7 +16,10 @@
         "tiempo_estimado":60,
         "desarrollador":"Activicion",
         "anio":2023,
-        "costo":"45"
+        "costo":45,
+        "costo_por_hora":0.75,
+        "valor_por_dolar":1.3333333333,
+        "id":"891aeebc-f50e-4013-b13a-f499d4b9add2"
     },
     {
         "nombre":"Resident Evil",
@@ -21,7 +27,10 @@
         "tiempo_estimado":60,
         "desarrollador":"Capcom",
         "anio":1998,
-        "costo":"5"
+        "costo":5,
+        "costo_por_hora":0.0833333333,
+        "valor_por_dolar":12.0,
+        "id":"175d4945-449b-4fea-89d2-b8ef19785235"
     },
     {
         "nombre":"Street Fighter 5",
@@ -29,7 +38,10 @@
         "tiempo_estimado":60,
         "desarrollador":"Capcom",
         "anio":2024,
-        "costo":"10"
+        "costo":10,
+        "costo_por_hora":0.1666666667,
+        "valor_por_dolar":6.0,
+        "id":"8f6be293-5bbe-47db-a2d9-54c03f7d4146"
     },
     {
         "nombre":"hollow knight",
@@ -37,7 +49,10 @@
         "tiempo_estimado":200,
         "desarrollador":"TeamCherry",
         "anio":2021,
-        "costo":"35"
+        "costo":35,
+        "costo_por_hora":0.175,
+        "valor_por_dolar":5.7142857143,
+        "id":"9937a1cc-5222-478a-8c1c-a7842cd4a46f"
     },
     {
         "nombre":"Wii Sports",
@@ -45,6 +60,31 @@
         "tiempo_estimado":60,
         "desarrollador":"Nintendo",
         "anio":2006,
-        "costo":"5"
+        "costo":5,
+        "costo_por_hora":0.0833333333,
+        "valor_por_dolar":12.0,
+        "id":"86f559e7-d13d-4be0-a8da-0abc1899bdf7"
+    },
+    {
+        "nombre":"Devil May Cry 5",
+        "genero":"Accion",
+        "tiempo_estimado":60,
+        "desarrollador":"Capcom",
+        "anio":2024,
+        "costo":60,
+        "costo_por_hora":1.0,
+        "valor_por_dolar":1.0,
+        "id":"48321bc5-28c6-48b6-b987-96eb8df5f6ba"
+    },
+    {
+        "nombre":"Metal Slug x",
+        "genero":"Beat 'em up",
+        "tiempo_estimado":70,
+        "desarrollador":"SNK",
+        "anio":1995,
+        "costo":10,
+        "costo_por_hora":0.1428571429,
+        "valor_por_dolar":7.0,
+        "id":"079383d5-756c-4ffd-85ce-9fc3d3dfc345"
     }
 ]
